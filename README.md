@@ -1,0 +1,1 @@
+Programa que simula um banco com objetivo de estudar programação orientada a objetos em java.
